@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alabama</key>
+	<dict>
+		<key>English</key>
+		<dict>
+			<key>Who is one of your state&apos;s US Senators now?</key>
+			<dict>
+				<key>Tommy Tuverville</key>
+				<true/>
+				<key>Ron McArthy</key>
+				<false/>
+				<key>Richard Shelby</key>
+				<true/>
+			</dict>
+			<key>What is the supreme law of the land?</key>
+			<dict>
+				<key>The President</key>
+				<false/>
+				<key>The Constitution</key>
+				<true/>
+				<key>The Parliament</key>
+				<string>0</string>
+			</dict>
+		</dict>
+		<key>Español</key>
+		<dict>
+			<key>Quién es uno de los senadores de los Estados Unidos procedentes de su Estado ahora?</key>
+			<dict>
+				<key>Ron McArthy</key>
+				<string></string>
+				<key>Tommy Tuverville</key>
+				<string></string>
+				<key>Richard Shelby</key>
+				<string></string>
+			</dict>
+			<key>Cuál es la ley suprema?</key>
+			<dict>
+				<key>El Presidente</key>
+				<false/>
+				<key>La Constitución</key>
+				<true/>
+				<key>El Parlamento</key>
+				<false/>
+			</dict>
+		</dict>
+	</dict>
+	<key>Alaska</key>
+	<dict>
+		<key>English</key>
+		<dict>
+			<key>Who is one of your state&apos;s US Senators now?</key>
+			<dict>
+				<key>Lisa Murkowski</key>
+				<true/>
+				<key>Michael Whales</key>
+				<false/>
+				<key>Ron Douglas</key>
+				<false/>
+			</dict>
+			<key>What is the supreme law of the land?</key>
+			<dict>
+				<key>The President</key>
+				<false/>
+				<key>The Constitution</key>
+				<true/>
+				<key>The Parliament</key>
+				<string>0</string>
+			</dict>
+		</dict>
+		<key>Español</key>
+		<dict>
+			<key>Quién es uno de los senadores de los Estados Unidos procedentes de su Estado ahora?</key>
+			<dict>
+				<key>Lisa Murkowski</key>
+				<true/>
+				<key>Michael Whales</key>
+				<false/>
+				<key>Ron Douglas</key>
+				<false/>
+			</dict>
+			<key>Cuál es la ley suprema?</key>
+			<dict>
+				<key>El Presidente</key>
+				<false/>
+				<key>La Constitución</key>
+				<true/>
+				<key>El Parlamento</key>
+				<false/>
+			</dict>
+		</dict>
+	</dict>
+	<key>Arizona</key>
+	<dict/>
+	<key>Arkansas</key>
+	<string></string>
+	<key>California</key>
+	<string></string>
+	<key>Colorado</key>
+	<string></string>
+	<key>Connecticut</key>
+	<string></string>
+	<key>Delaware</key>
+	<string></string>
+	<key>Florida</key>
+	<string></string>
+	<key>Georgia</key>
+	<string></string>
+	<key>Hawaii</key>
+	<string></string>
+	<key>Idaho</key>
+	<string></string>
+	<key>Ilinois</key>
+	<string></string>
+	<key>Indiana</key>
+	<string></string>
+	<key>Iowa</key>
+	<string></string>
+	<key>Kansas</key>
+	<string></string>
+	<key>Kentucky</key>
+	<string></string>
+	<key>Louisiana</key>
+	<string></string>
+	<key>Maine</key>
+	<string></string>
+	<key>Maryland</key>
+	<string></string>
+	<key>Massachsetts</key>
+	<string></string>
+	<key>Michigan</key>
+	<string></string>
+	<key>Minnesota</key>
+	<string></string>
+	<key>Mississippi</key>
+	<string></string>
+	<key>Missouri</key>
+	<string></string>
+	<key>Montana</key>
+	<string></string>
+	<key>Nebraska</key>
+	<string></string>
+	<key>Nevada</key>
+	<string></string>
+	<key>New Hampshire</key>
+	<string></string>
+	<key>New Mexico</key>
+	<string></string>
+	<key>New York</key>
+	<string></string>
+	<key>North Dakota</key>
+	<string></string>
+	<key>Ohio</key>
+	<string></string>
+	<key>Oklahoma</key>
+	<string></string>
+	<key>Oregon</key>
+	<string></string>
+	<key>Pennsylvania</key>
+	<string></string>
+	<key>Rhode Island</key>
+	<string></string>
+	<key>South Carolina</key>
+	<string></string>
+	<key>South Dakota</key>
+	<string></string>
+	<key>Tenessee</key>
+	<string></string>
+	<key>Texas</key>
+	<string></string>
+	<key>Utah</key>
+	<string></string>
+	<key>Vermont</key>
+	<string></string>
+	<key>Virginia</key>
+	<string></string>
+	<key>Washington</key>
+	<string></string>
+	<key>West Virginiia</key>
+	<string></string>
+	<key>Wisconsing</key>
+	<string></string>
+	<key>Wyoming</key>
+	<string></string>
+</dict>
+</plist>
